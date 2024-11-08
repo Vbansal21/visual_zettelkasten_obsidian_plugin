@@ -1,0 +1,7 @@
+flask
+torch
+transformers
+janus
+whisper
+jinja2
+pillow

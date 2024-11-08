@@ -1,0 +1,11 @@
+{
+    "id": "visual-zettelkasten",
+    "name": "Visual Zettelkasten",
+    "version": "1.0.0",
+    "minAppVersion": "0.12.0",
+    "description": "An Obsidian plugin for a visual Zettelkasten system with AI-powered template generation using local models.",
+    "author": "Your Name",
+    "authorUrl": "https://yourwebsite.com",
+    "isDesktopOnly": false
+  }
+  

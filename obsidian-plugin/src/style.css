@@ -1,0 +1,30 @@
+/* styles.css */
+.modal-content {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .setting-item {
+    margin-bottom: 10px;
+  }
+  
+  .setting-item .setting-control {
+    display: flex;
+    align-items: center;
+  }
+  
+  .setting-item .setting-control .button {
+    margin-right: 5px;
+  }
+  
+  .canvas-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .canvas-container canvas {
+    border: 1px solid var(--interactive-border);
+    margin-bottom: 10px;
+  }
+  

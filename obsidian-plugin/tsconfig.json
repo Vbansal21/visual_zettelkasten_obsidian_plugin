@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "ESNext",
+      "lib": ["ESNext", "DOM"],
+      "declaration": true,
+      "outDir": "./dist",
+      "strict": true,
+      "esModuleInterop": true,
+      "sourceMap": true,
+      "allowSyntheticDefaultImports": true,
+      "moduleResolution": "node",
+      "types": ["node", "obsidian"],
+    },
+    "include": ["src/**/*.ts"]
+  }
+  
